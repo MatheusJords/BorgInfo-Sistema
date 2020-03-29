@@ -2,7 +2,9 @@
     <div class="col-md-7">
       <br>
       <h4>Abra um chamado para nossa equipe</h4>
-      <button type="button" class="btn btn-primary btn-md">Abrir um chamado</button>
+      <a href="classes/criaChamado.php">
+        <button type="button" class="btn btn-primary btn-md" type="submit">Abrir um chamado</button>
+      </a>
     </div>
   </div>
   <div class="row">
